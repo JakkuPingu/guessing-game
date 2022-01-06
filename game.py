@@ -31,6 +31,11 @@ class your_guess:
                     print("--------------------")
                     print("  You have lost...  ")
                     print("--------------------")
+                    print("")
+                    print("====================")
+                    print("   The answer was   ")
+                    print("         {}         ".format(answer))
+                    print("====================")
                     break
 
             else:
@@ -71,6 +76,11 @@ class your_guess:
                     print("--------------------")
                     print("  You have lost...  ")
                     print("--------------------")
+                    print("")
+                    print("====================")
+                    print("   The answer was   ")
+                    print("         {}         ".format(answer))
+                    print("====================")
                     break
 
             else:
