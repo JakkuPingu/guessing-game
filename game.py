@@ -144,6 +144,10 @@ print("")
 
 guess = int(input("What is your guess?\n"))
 
+print("")
+print("How the distance works:\nClose = within a distance of 5\nNot close = distance greater than 5")
+time.sleep(8)
+
 guess_big = your_guess(guess)
 guess_smoll = your_guess(guess)
 guess_right = your_guess(guess)
