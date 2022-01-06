@@ -10,8 +10,8 @@ How the game works
 <p>player two has up to three guesses to guess the correct answer</p>
 <h4>Finally</h4>
 <p>If player two has not guessed the answer you will be presented with the text telling you that you have failed...</p>
-<p>you will then be shown the correct answer</p>
-<p> <s>(WIP)</s>If player two guesses the answer within 3 guesses you will be congratulated</p>
+<p> <s>(WIP)</s> you will then be shown the correct answer</p>
+<p>If player two guesses the answer within 3 guesses you will be congratulated</p>
 
 <h4>Would like help on how to hide the orginal answer when typed in</h4>
 
