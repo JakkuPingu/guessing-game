@@ -1,6 +1,21 @@
 # guessing game
-How the game works
-------------------
+## How to download
+Either use:
+```
+Wget <URL> (Linux only)
+```
+Or
+```
+Curl <URL>
+```
+Output a file by using: ```> <Newfilename>``` after ```Wget``` or ```Curl```
+<br>
+<br>
+Or use ```-o <Newfilename>``` after ```Curl```
+
+
+## How the game works
+
 <br>The guessing game is simple</br>
 <h4>First</h4>
 <p>Player one will put in what they would like the answer to be (any digit, don't be too harsh ;))</p>
