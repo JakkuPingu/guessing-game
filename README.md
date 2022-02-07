@@ -2,17 +2,26 @@
 ## How to download
 Either use:
 ```
-Wget <URL> (Linux only)
+Wget https://raw.githubusercontent.com/JakkuPingu/guessing-game/main/game.py (Linux only)
 ```
 Or
 ```
-Curl <URL>
+Curl https://raw.githubusercontent.com/JakkuPingu/guessing-game/main/game.py
 ```
 Output a file by using: ```> <Newfilename>``` after ```Wget``` or ```Curl```
 <br>
 <br>
 Or use ```-o <Newfilename>``` after ```Curl```
 
+## How to run the game
+To run the game use the command:
+```
+python <filename>
+```
+or 
+```
+python3 <filename>
+```
 
 ## How the game works
 
